@@ -1,0 +1,49 @@
+*{border: black;}
+img {margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+size: 100%;}
+#container {background-color: #eeeeee;
+    width: 100%;
+    height: 70px;
+margin-top: 10px;
+font: bold;
+text-align: center;
+padding-top: 5px;
+}
+.input{border: 1px;
+display: block;
+border-style: solid;
+margin: auto;
+
+}
+.button {
+    background-color: white;
+    margin-top: 2px;
+
+    
+  }
+  #special{background-color:#7ee5da;
+width: 34%;
+text-align: center;
+}
+
+#help{background-color:#70ccc2;
+    width: 30%;
+    ;
+}
+#more{background-color: #62b3aa;
+width: 34%;
+}
+.main{display: inline-block;
+vertical-align: top;
+margin-top: 2px;
+text-align: center;
+height: 100px;}
+#footer{position: absolute;
+bottom: 0;
+width: 100%;
+height: 2.5rem;
+text-align: center;
+}
